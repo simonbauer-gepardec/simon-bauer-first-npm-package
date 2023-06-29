@@ -1,0 +1,19 @@
+{
+  "name": "simon-bauer-first-npm-package",
+  "version": "1.0.0",
+  "description": "\"# simon-bauer-first-npm-package\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonbauer-gepardec/simon-bauer-first-npm-package.git"
+  },
+  "author": "simonbauer-gepardec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonbauer-gepardec/simon-bauer-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/simonbauer-gepardec/simon-bauer-first-npm-package#readme"
+}
